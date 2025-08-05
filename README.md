@@ -12,14 +12,14 @@
 
 # 📊 GitHub Stats:
 
-<img src="./test.svg" width="450" />
+<img src="./.assets/test.svg" width="450" />
 
-<img src="./test2.svg" width="450" />
+<img src="./.assets/test2.svg" width="450" />
 
 
 ## 🏆 GitHub Trophies
 
-<img src="./test3.svg" width="1000" />
+<img src="./.assets/test3.svg" width="1000" />
 
 
 ### ✍️ Random Dev Quote
