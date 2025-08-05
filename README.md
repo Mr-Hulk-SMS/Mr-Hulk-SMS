@@ -19,7 +19,7 @@
 
 ## 🏆 GitHub Trophies
 
-<img src="./test3.svg" width="200" />
+<img src="./test3.svg" width="800" />
 
 
 ### ✍️ Random Dev Quote
