@@ -20,6 +20,7 @@
 ## 🏆 GitHub Trophies
 
 <img src="./.assets/test3.svg" width="1000" />
+<br>
 
 ## 🏆 GitHub Achievements
 
