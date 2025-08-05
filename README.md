@@ -14,6 +14,8 @@
 
 <img src="./test.svg" width="450" />
 
+<img src="./test2.svg" width="450" />
+
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=ortonikc&theme=discord&no-frame=false&no-bg=true&margin-w=4)
