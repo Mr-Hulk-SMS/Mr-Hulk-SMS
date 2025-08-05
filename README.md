@@ -21,6 +21,12 @@
 
 <img src="./.assets/test3.svg" width="1000" />
 
+## 🏅 GitHub Achievements
+
+<img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="80" title="Quickdraw" />
+<img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="80" title="Pull Shark" />
+<img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="80" title="Starstruck" />
+
 
 ### ✍️ Random Dev Quote
 
