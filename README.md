@@ -21,11 +21,17 @@
 
 <img src="./.assets/test3.svg" width="1000" />
 
-## 🏅 GitHub Achievements
+## 🏆 GitHub Achievements
 
-<img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="80" title="Quickdraw" />
-<img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="80" title="Pull Shark" />
-<img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="80" title="Starstruck" />
+<p align="center">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="80" alt="Quickdraw" title="Quickdraw – Closed an issue within 5 minutes" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="80" alt="Pull Shark" title="Pull Shark – Made a pull request that got merged" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="80" alt="Starstruck" title="Starstruck – Repo starred by a GitHuber with 100+ followers" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" width="80" alt="Galaxy Brain" title="Galaxy Brain – Got 2+ accepted answers in GitHub Discussions" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="80" alt="YOLO" title="YOLO – Merged a PR without code review" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/arctic-code-vault-contributor-default.png" width="80" alt="Arctic Vault" title="Arctic Vault – Contributed to a repo preserved in the Arctic Code Vault" />
+</p>
+
 
 
 ### ✍️ Random Dev Quote
